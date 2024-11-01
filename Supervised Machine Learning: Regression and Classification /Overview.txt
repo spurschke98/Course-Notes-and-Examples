@@ -1,1 +1,1 @@
-La la laaaaa
+Each folder in the Supervised Machine Learning: Regression and Classification Folder contains labs and assignments from the course. 
